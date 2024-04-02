@@ -83,3 +83,20 @@
     <td>Il s'agit ici de l'interface principal du jeux</td>
   </tr>
 </table>
+
+
+<h2>Les patrons de conception utilisés</h2>
+
+<ol>
+  <li><b>Le patron de conception stratégie :</b> <br><p>Ce patron a été utilisé pour implémenter les façons de jouer d'un joueur physique et d'un joueur virtuel, étant donné que ceux-ci ne partagent pas la même mécanique de jeu.</p></li>
+  <li><b>Le patron de conception listener :</b> <br> <p>Il a été utilisé ici pour permettre à l'interface graphique d'observer la classe Joueur afin de se mettre à jour lorsque une caractéristique d'un joueur change.</p></li>
+  <li><b>Le patron de conception MVC :</b> <br> <p>Il a été utilisé ici afin de permettre une gestion simple et cohérente des interactions entre les interfaces graphiques et les classes représentant les objets du jeu.</p></li>
+</ol>
+
+
+<h2> Diagramme de classes</h2>
+<p>Il s'agit ici d'un diagrammes de classes qui permet d'illustrer les différentes classes du jeux ainsi que la manière dont elles interagissent </p>
+
+![image](https://github.com/Briandiffo/Karmaka-Card-game/assets/112263899/6dcdbaf5-8d6b-4de3-87ad-3e0a2d3ded08)
+
+
