@@ -100,3 +100,18 @@
 ![image](https://github.com/Briandiffo/Karmaka-Card-game/assets/112263899/6dcdbaf5-8d6b-4de3-87ad-3e0a2d3ded08)
 
 
+<h2>Présentation de l'exécution du jeux </h2>
+
+<h3>Première page du jeux (Menu) </h3>
+
+<p>Dans cette partie , le joueur ca entrer son nom et aura le choix entre commencer une nouvelle partie contre l'odinateur ou en core de continuer une partie sauvegardée au préalable </p>
+
+![image](https://github.com/Briandiffo/Karmaka-Card-game/assets/112263899/5082b202-bc15-479d-a941-34a1203faebc)
+
+<h3>deuxième page , le jeux en lui même </h3>
+<p> il s'agit de la page de deroulemment du jeux , avec tous les boutons que peut utiliser le joueur pour agencer son jeux ainsi que les information concernant son jeux de carte ou son état</p>
+
+
+![image](https://github.com/Briandiffo/Karmaka-Card-game/assets/112263899/c8bdfe01-5c78-4348-b070-bed03a5f8443)
+
+
